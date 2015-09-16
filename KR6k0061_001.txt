@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:43:31.867987
+#+DATE: 2015-08-30 20:43:33.010458
 #+TITLE: 沙彌威儀
 #+PROPERTY: CBETA_ID T24n1472
 #+PROPERTY: ID KR6k0061
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1472
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6k0061_T_000-0932b>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6k0061_T_001-0932b> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.1472¶
-
- 沙彌威儀¶
+No. 1472¶
+沙彌威儀¶
 ¶
 宋罽賓三藏求那跋摩譯¶
 
@@ -91,8 +90,7 @@ No.1472¶
 飯時法。¶
 
 別坐飯時法有四事。一者當立住師邊。二者¶
-教飯乃當坐去。三者頭面著地作禮。四者去¶
-飯不得倨坐上戲。飯已竟當至師邊住。師教¶
+教飯乃當坐去。三者頭面著地作禮。四者去飯不得倨坐上戲。飯已竟當至師邊住。師教¶
 還坐乃應坐。是為別坐飯時法。¶
 
 入城乞食時有四事。一者當持師鉢。二者當¶
