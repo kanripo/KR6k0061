@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 沙彌威儀
+#+DATE: 2015-08-30 20:43:32.066342
+#+PROPERTY: JUAN 0
